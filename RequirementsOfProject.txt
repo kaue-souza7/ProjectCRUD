@@ -1,0 +1,23 @@
+Projeto CRUD em Python com Armazenamento em Arquivo JSON
+Crie um programa Python que implemente um sistema de gerenciamento de produtos. 
+Este sistema deve permitir ao usuário realizar as seguintes operações:
+
+1 - Adicionar um novo produto.
+2 - Listar todos os produtos.
+3 - Atualizar um produto existente.
+4 - Excluir um produto.
+5 - Sair do programa.
+Os dados dos produtos devem ser armazenados em um arquivo JSON.
+
+Cada produto terá os seguintes campos:
+
+Nome
+Preço
+Quantidade
+
+
+Escreva um código Python para implementar este sistema de gerenciamento de produtos. 
+Certifique-se de lidar com exceções e validar as entradas do usuário sempre que necessário.
+
+Depois de implementar o programa, teste-o com várias operações 
+para garantir que todas as funcionalidades estejam funcionando corretamente.
